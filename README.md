@@ -1,5 +1,5 @@
 # Overeview
-> This projetc has a main.c file and a utils library that contains all the functions needed to run this git project
+> This project has a main.c file and a utils library that contains all the functions needed to run this git project
 
 ## All the methods required to run this project are located in utils/ 
 - ***utils.h***: Contains the definition of every method
