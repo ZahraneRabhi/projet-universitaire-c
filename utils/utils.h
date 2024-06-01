@@ -12,9 +12,10 @@ typedef struct cell {
 typedef Cell* List;
 
 /*
-These  WorkFile & WorkTree types are defined to handle project 
+These WorkFile & WorkTree types are defined to handle projects 
 with multiple files and sub-files
 */
+
 typedef struct {
     char* name;
     char* hash;
